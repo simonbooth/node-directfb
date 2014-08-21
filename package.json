@@ -1,0 +1,16 @@
+{
+  "name": "directfb",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "contributors":[
+      "mark@engine12.com",
+      "Denis Oliver Kropp <dok@directfb.org>",
+      "Simon Booth <simon@purplelizard.net>"
+      ],
+  "license":"",
+  "dependencies": {
+  }
+}
