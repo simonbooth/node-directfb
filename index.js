@@ -1,1 +1,1 @@
-module.exports=require('./build/Release/directfb');
+module.exports=require('./build/Release/directfb.node');
