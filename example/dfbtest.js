@@ -1,4 +1,4 @@
-var DFB = require('../index.js');
+var DFB = require('../build/Release/directfb');
 
 var dfb = DFB.DirectFBCreate();
 

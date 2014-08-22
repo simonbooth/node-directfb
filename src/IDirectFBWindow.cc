@@ -843,7 +843,7 @@ IDirectFBWindow_SetRotation( const v8::Arguments& args )
 
 	int rotation = (unsigned int) args[0]->IntegerValue();
 
-     V8_DIRECTFB_CALL( thiz->SetRotation( thiz, rotation ) );
+     //V8_DIRECTFB_CALL( thiz->SetRotation( thiz, rotation ) );
 
      return v8::Undefined();
 }
